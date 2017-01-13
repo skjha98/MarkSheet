@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_first_year"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context="com.gtx.android.marksheet.FirstYearActivity">
+
+    <TextView
+        style="@style/YearHeading"
+        android:background="@color/FirstBG"
+        android:text="@string/firstSem" />
+
+    <TextView
+        style="@style/YearHeading"
+        android:background="@color/SecondBG"
+        android:text="@string/secondSem" />
+
+</LinearLayout>

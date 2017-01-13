@@ -4,4 +4,7 @@
     <string name="secondYear">Second Year</string>
     <string name="thirdYear">Third Year</string>
     <string name="fourthYear">Fourth Year</string>
+
+    <string name="firstSem">First Semester</string>
+    <string name="secondSem">Second Semester</string>
 </resources>

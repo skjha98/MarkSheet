@@ -4,10 +4,15 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
 
-    <color name="FirstYearBG">#D85454</color>                   //First Year Background Color
-    <color name="SecondYearBG">#D2D854</color>                  //Second Year Background Color
-    <color name="ThirdYearBG">#6854D8</color>                   //Third Year Background Color
-    <color name="FourthYearBG">#C054D8</color>                  //Fourth Year Background Color
+    <color name="FirstBG">#D85454</color>
+    //First Year Background Color
+    <color name="SecondBG">#D2D854</color>
+    //Second Year Background Color
+    <color name="ThirdBG">#6854D8</color>
+    //Third Year Background Color
+    <color name="FourthBG">#C054D8</color>
+    //Fourth Year Background Color
 
-    <color name="LayoutBG">#F4DEAB</color>                      //Layout Background Color
+    <color name="LayoutBG">#F4DD69</color>
+    //Layout Background Color
 </resources>
