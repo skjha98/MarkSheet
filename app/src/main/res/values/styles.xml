@@ -9,7 +9,7 @@
     </style>
 
 
-    <!-- Style for TextView Heading in the Main Activity -->
+    <!-- Style for TextView Heading in the Main Activity & Year/s Activity -->
     <style name="YearHeading" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize Main Activity Theme -->
         <item name="android:layout_width">match_parent</item>
@@ -23,4 +23,13 @@
         <item name="android:gravity">center_vertical</item>
     </style>
 
+    <!-- Style for list_items_view / Semester/s Activity -->
+    <style name="listItemsStyle">
+        <!-- Customise Semester List Item Theme -->
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
 </resources>

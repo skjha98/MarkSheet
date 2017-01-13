@@ -18,6 +18,9 @@
         <activity
             android:name=".FirstYearActivity"
             android:label="@string/firstYear" />
+        <activity
+            android:name=".FirstSemActivity"
+            android:label="@string/firstSem" />
     </application>
 
 </manifest>
