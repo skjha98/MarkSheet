@@ -4,6 +4,8 @@
     android:id="@+id/activity_first_sem"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:divider="#000000"
+    android:dividerHeight="1dp"
     android:orientation="vertical"
     tools:context="com.gtx.android.marksheet.FirstSemActivity">
 

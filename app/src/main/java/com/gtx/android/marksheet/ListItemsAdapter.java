@@ -42,7 +42,7 @@ public class ListItemsAdapter extends ArrayAdapter<ListItems> {
         marksDivisionTextView.setText(currentList.getMarksDivision());
 
         TextView totalMarksTextView = (TextView) listView.findViewById(R.id.totalMarks);
-        totalMarksTextView.setText(currentList.getTotalMarks());
+        totalMarksTextView.setText(Integer.toString(currentList.getTotalMarks()));
 
         return listView;
     }
