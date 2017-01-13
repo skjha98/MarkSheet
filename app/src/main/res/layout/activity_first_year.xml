@@ -8,11 +8,13 @@
     tools:context="com.gtx.android.marksheet.FirstYearActivity">
 
     <TextView
+        android:id="@+id/firstSem"
         style="@style/YearHeading"
         android:background="@color/FirstBG"
         android:text="@string/firstSem" />
 
     <TextView
+        android:id="@+id/secondSem"
         style="@style/YearHeading"
         android:background="@color/SecondBG"
         android:text="@string/secondSem" />
