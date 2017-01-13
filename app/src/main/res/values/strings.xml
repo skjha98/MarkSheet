@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mark Sheet</string>
+    <string name="firstYear">First Year</string>
+    <string name="secondYear">Second Year</string>
+    <string name="thirdYear">Third Year</string>
+    <string name="fourthYear">Fourth Year</string>
+</resources>
