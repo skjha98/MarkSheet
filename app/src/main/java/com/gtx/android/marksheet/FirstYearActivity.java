@@ -20,8 +20,8 @@ public class FirstYearActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Toast.makeText(FirstYearActivity.this, "Opening MarkSheet for 1st Semester", Toast.LENGTH_SHORT).show();
 
-                Intent firstSemActivtyIntent = new Intent(FirstYearActivity.this, FirstSemActivity.class);
-                startActivity(firstSemActivtyIntent);
+                Intent firstSemActivityIntent = new Intent(FirstYearActivity.this, FirstSemActivity.class);
+                startActivity(firstSemActivityIntent);
             }
         });
 
