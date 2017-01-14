@@ -30,6 +30,9 @@ public class FirstYearActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Toast.makeText(FirstYearActivity.this, "Opening MarkSheet for 2nd Semester", Toast.LENGTH_SHORT).show();
+
+                Intent secondSemActivityIntent = new Intent(FirstYearActivity.this, SecondSemActivity.class);
+                startActivity(secondSemActivityIntent);
             }
         });
     }

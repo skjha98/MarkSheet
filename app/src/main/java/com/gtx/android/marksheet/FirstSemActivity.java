@@ -15,10 +15,10 @@ public class FirstSemActivity extends AppCompatActivity {
 
         ArrayList<ListItems> mainList = new ArrayList<ListItems>();
 
-        mainList.add(new ListItems("NAS101", "Engg. Physics - 1", "24 + 34", 24 + 34));
+        mainList.add(new ListItems("NAS101", "Engg. Physics - I", "24 + 34", 24 + 34));
         mainList.add(new ListItems("NAS105", "Environment & Ecology", "23 + 31", 23 + 31));
         mainList.add(new ListItems("NAS102", "Engg. Mechanics", "49 + 30", 49 + 30));
-        mainList.add(new ListItems("NAS103", "Engg. Mathematics - 1", "45 + 41", 45 + 41));
+        mainList.add(new ListItems("NAS103", "Engg. Mathematics - I", "45 + 41", 45 + 41));
         mainList.add(new ListItems("NAS104", "Professional Communication", "46 + 76", 46 + 76));
         mainList.add(new ListItems("NCS101", "Computer System and Programming in C", "50 + 38", 50 + 38));
 

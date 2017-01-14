@@ -21,6 +21,7 @@
         <activity
             android:name=".FirstSemActivity"
             android:label="@string/firstSem" />
+        <activity android:name=".SecondSemActivity"></activity>
     </application>
 
 </manifest>
